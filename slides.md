@@ -1,87 +1,135 @@
-# The presentation template
+# Spring Fling Plan
 
-## MaptimeCalgary
-This is the first slide.
-
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
+## CUGOS
+04/15/2015
 
 
 
-## Follow along
-These slides are created with Reveal.js + Markdown.
-
-Take a look at the [raw source for the slides](https://raw.githubusercontent.com/MaptimeCalgary/presentation-example/gh-pages/slides.md). The repo can be found [here](https://github.com/MaptimeCalgary/presentation-example).
+# The Details
 
 
+## When?
+May 13th, 2015
 
-## This is a new slide
-Create these by placing 3 line-breaks in the markdown source.
-
-_From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
-
-_Try `DOWN`._ <!-- .element: class="fragment" data-fragment-index="1" -->
+_All flippin day_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
-## This is a vertical-slide
-You make these by placing 2 line-breaks within the source.
+## Where?
+Anderson Hall, University of Washington
 
-Vertical-slides are good for drilling in to topics. Think of it as a _details_ slide. If you're short on time, you can skip past these slides by moving `RIGHT`.
+_The baddest place on campus_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+## What?
 
 
 
-## You can put images in a slide
-
-![alt text](assets/logo.png "Logo Title Text 1")
-
-![external image](https://raw.githubusercontent.com/maptime/maptime.github.io/master/img/xmaptime-logo-web-header-rainbonly.png.pagespeed.ic.sUvy41gYSf.png "External Image Example")
+# Our Goal
+A day of *fun*, *open* and *practical* learning for all skill levels and interests
 
 
+## Fun
+Well, what's the point if we don't have a good time?
 
-<!-- .slide: data-background="MintCream" -->
-## Style
 
-You can style each slide individually.
+## Open
+Projects... Dialogue... Flow of knowledge...
 
-_Cool background, right?_<!-- .element: class="fragment" data-fragment-index="1" -->
-```
-<!-- .slide: data-background="MintCream" -->
-## Style
+_Not about what you know,
+but what you learn and teach_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-You can style each slide individually.
-```
+
+## Practical
+Develop real skills on real projects with free tools
 
 
 
-## Hey, it even supports code!
-
-```
-var marker = L.marker([49, 5.49]).addTo(map);
-var polygon = L.polygon([
-  [51.509, -0.08],
-  [51.503, -0.06],
-  [51.51, -0.047]
-]).addTo(map);
-marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
-polygon.bindPopup("I am a polygon.");
-```
+# Where does that leave us?
 
 
+## Schedule
 
-## Want to see something _really_ crazy?
+[spring fling 2015](http://cugos.org/2015-spring-fling/)
 
-Press `S` to check out the 'Presentation Mode'.
 
-Note:
-The idea is that you put the other window on a shared screen, like a projector, and view this screen on your laptop. Btw, this note is only visible to the presenter.
+## Key Takeaways
+
+_talks in the morning_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_workshops sandwich lunch_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+_project time in the afternoon_<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_share our work at the end of the day_<!-- .element: class="fragment" data-fragment-index="4" -->
+
+_HAPPY HOUR!_<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
-## That's about it
+# Proposed Tracks
 
-There are a bunch of cool things you can do with **Reveal.js** and **Markdown**.
 
-Check out Reveal.js' [example slides](http://lab.hakim.se/reveal-js/) for more quick examples of what you can do with Reveal.js.  Check out Reveal.js' [Readme](https://github.com/hakimel/reveal.js/blob/master/README.md) and its [wiki](https://github.com/hakimel/reveal.js/wiki) (especially the [Articles & Tutorials](https://github.com/hakimel/reveal.js/wiki/Articles-&-Tutorials) section) for greater detail about using Reveal.js.  
 
-Check out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick intro into using Markdown.
+# drop-n-chop
+### Javascript & GIS in the Browser
+
+
+## Skills Covered
+Javascript, Turf.js, Web Development, Geo Data, Documentation
+
+
+## Impact
+Push the limits of geo-processing in the web browser on a project that teaches
+people about spatial functions
+
+
+## Project Page
+https://github.com/cugos/drop-n-chop
+
+
+
+# Mapbox Studio
+### Cartography & Web Maps
+
+
+## Skills Covered
+Mapbox Studio, Web Maps, Principles of Cartography, CartoCSS
+
+
+## Impact
+Learn how to design custom web maps and build one that meets a specific purpose
+
+
+## Project Page
+https://www.mapbox.com/mapbox-studio/
+
+
+
+# Decisions Decisions
+
+
+## Do these projects appeal?
+
+
+## Does this address what you want to learn?
+
+
+## Are folks language agnostic?
+
+
+
+# Get Involved
+
+
+## Find a sponsor
+_we can help! talk to us!_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+## Identify yourself as a volunteer
+_email: hello@cugos.org_<!-- .element: class="fragment" data-fragment-index="1" -->
+
+_or stand up and shout_<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+## Reach out to your community
+_spread the word_<!-- .element: class="fragment" data-fragment-index="1" -->
